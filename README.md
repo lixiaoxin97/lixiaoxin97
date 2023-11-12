@@ -4,4 +4,3 @@
 
 - 🔭 I’m mostly interested in deep_reinforcement_learning/agile_flight/object_detection and anything related to quadrotor.
 - 🌱 I’m currently woking at NUDT.
-- 📫 lixiaoxin97@foxmail.com
